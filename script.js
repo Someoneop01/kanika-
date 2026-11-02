@@ -126,7 +126,7 @@ if (visitorForm) {
 
 
 const text =
-    "Vandana Website Message 💌\n" +
+    "kanika Website Message 💌\n" +
     "Message: " + message;
 
         const url =
