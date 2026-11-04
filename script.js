@@ -122,11 +122,11 @@ if (visitorForm) {
         }
 
         // Number must include country code, without + or spaces.
-        const YOUR_NUMBER = "917484993096";
+        const YOUR_NUMBER = "918298075544";
 
 
 const text =
-    "kanika Website Message 💌\n" +
+    "Mahi Website Message 💌\n" +
     "Message: " + message;
 
         const url =
