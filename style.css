@@ -746,7 +746,7 @@ footer {
 
 /* Closed envelope cover */
 .letter-card.cinematic-sealed::before {
-    content: "💌\A For Kanika\A ♥";
+    content: "💌\A For Mahi\A ♥";
     white-space: pre-line;
     position: absolute;
     inset: 0;
